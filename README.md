@@ -17,3 +17,6 @@ PX4 无人机 Offboard 模式控制(C++)
 [YOLO and 飞桨推理(python)](https://github.com/AyasOwen/cv_yolo_paddle_pkg)
 
 [OpenCv 等基础功能实现(C++)](https://github.com/AyasOwen/opencv_cpp)
+
+[D435 和 T265 的联合使用(blog, ros1 暂未做 ros2 移植)](https://ayasowen.github.io/2024/11/17/T265%E5%92%8CD435%E8%81%94%E5%90%88%E4%BD%BF%E7%94%A8/)
+
